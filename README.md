@@ -1,10 +1,12 @@
 # Data-Science_assignment
 1. Project Overview
+   
 The project aims to:
 
 Analyze transactional, product, and customer data using EDA.
 Build a Lookalike Model to recommend similar customers based on transactional behavior.
 Perform Clustering to segment customers into meaningful groups.
+
 2. Methodology
 EDA:
 Merged customer, product, and transaction datasets for analysis.
